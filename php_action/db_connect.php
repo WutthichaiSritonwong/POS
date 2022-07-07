@@ -1,17 +1,17 @@
 <?php     
 
-$localhost = "localhost";
+/*$localhost = "localhost";
 $username = "techones_posroot";
 $password = "Jed8SZp95";
-$dbname = "techones_pos";
+$dbname = "techones_pos";*/
 
 
-/*
+
 $localhost = "localhost";
 $username = "root";
 $password = "";
 $dbname = "cine";
-*/
+
 
 
 // db connection
